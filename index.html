@@ -8,9 +8,60 @@
       href="imgs/favicon-32x32.png"
       type="image/x-icon"
     />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;700;800&display=swap"
+      rel="stylesheet"
+    />
 
     <link rel="stylesheet" href="styles.css" />
     <title>Frontend Mentor | Results summary component</title>
   </head>
-  <body></body>
+
+  <body>
+    <div class="container">
+      <article class="result-summary-component">
+        <div class="result-component">
+          <p class="title">Your Result</p>
+          <p class="score"><span>76</span>of 100</p>
+          <p class="remark">Great</p>
+          <p class="stats">
+            You scored higher than 65% of the people who have taken these tests.
+          </p>
+        </div>
+
+        <div class="summary-component">
+          <p class="title">Summary</p>
+          <ul class="detail-summary">
+            <li>
+              <img
+                src="imgs/icon-reaction.svg"
+                alt="icon-reaction"
+                class="icon"
+              />
+              <p class="text">Reaction</p>
+              <p class="number"><span>80</span> / 100</p>
+            </li>
+            <li>
+              <img src="imgs/icon-memory.svg" alt="icon-memory" class="icon" />
+              <p class="text">Memory</p>
+              <p class="number"><span>92</span> / 100</p>
+            </li>
+            <li>
+              <img src="imgs/icon-verbal.svg" alt="icon-verbal" class="icon" />
+              <p class="text">Verbal</p>
+              <p class="number"><span>61</span> / 100</p>
+            </li>
+            <li>
+              <img src="imgs/icon-visual.svg" alt="icon-visual" class="icon" />
+              <p class="text">Visual</p>
+              <p class="number"><span>72</span> / 100</p>
+            </li>
+          </ul>
+          <a href="#" class="btn">Continue</a>
+        </div>
+      </article>
+    </div>
+  </body>
 </html>
