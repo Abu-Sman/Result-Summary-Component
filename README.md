@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
+- Solution URL: [https://www.frontendmentor.io/solutions/result-summary-component-using-flexbox-and-css-grid-fewmlvnxV3](https://www.frontendmentor.io/solutions/result-summary-component-using-flexbox-and-css-grid-fewmlvnxV3)
 - Live Site URL: [https://result-summary-component-solution.netlify.app/](https://result-summary-component-solution.netlify.app/)
 
 ## My process
@@ -46,15 +46,15 @@ Users should be able to:
 
 ### What I learned
 
-This challenge helps me to practise my skills.
+This challenge helps me to practice my skills.
 
 ### Continued development
 
-Keep practising my css skills.
+Keep practicing my css skills.
 
 ### Useful resources
 
-- [Resource](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- [Jonas Schmedtmann HTML and CSS cours](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ## Author
 
